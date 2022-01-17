@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Bernhard Studios"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Welcome to the official website of Bernhard Studios, here I will be posting some features of our main project: Night Fight.
