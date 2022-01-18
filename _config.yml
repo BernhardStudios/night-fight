@@ -6,9 +6,11 @@ description: > # this means to ignore newlines until "baseurl:"
   and coming soon to the App Store. Night Fight has been made using Unity and Blender.
   
 theme: minima
+minima: dark
 
 # social links
 twitter_username: BernhardStudios # DO NOT include the @ character, or else the build will fail!
 github_username:  BernhardStudios # DO NOT include the @ character, or else the build will fail!
+instagram_username: bernhard.studios
 
 show_excerpts: true # set to false to remove excerpts on the homepage
